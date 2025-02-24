@@ -19,8 +19,3 @@
 
 **cil.yaml:** anaconda env with all required packages 
 
-
-## AS todo
-
-- [ ] ~~Wersja dla danych z SCCS, żeby móc testować~~
-- [ ] ~~Połączyć wersję dla microCT i dla SCCS w jedną~~  
