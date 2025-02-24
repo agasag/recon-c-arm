@@ -1,4 +1,4 @@
-# rcmc-kardiologia: reconstruction 
+# c-arm cardiac imaging: reconstruction 
 
 **1. config_parser.py: DICOM/uCT config file parser**
 
